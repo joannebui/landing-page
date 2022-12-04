@@ -123,9 +123,11 @@ h1.random{
     font-size: 36px;
     font-style: light italic;
     width:500px;
+    color: #1F2937;
 }
 
 .thor{
     align-self: flex-end;/*aligns flex item to the right*/
     font-style: extra bold;
+
 }
